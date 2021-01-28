@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\AdoNetLinqToSQL\AdoNetLinqToSQL\bin\Debug\AdoNetLinqToSQL.exe.config
+C:\Users\Admin\source\repos\AdoNetLinqToSQL\AdoNetLinqToSQL\bin\Debug\AdoNetLinqToSQL.exe
+C:\Users\Admin\source\repos\AdoNetLinqToSQL\AdoNetLinqToSQL\bin\Debug\AdoNetLinqToSQL.pdb
+C:\Users\Admin\source\repos\AdoNetLinqToSQL\AdoNetLinqToSQL\obj\Debug\AdoNetLinqToSQL.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\AdoNetLinqToSQL\AdoNetLinqToSQL\obj\Debug\AdoNetLinqToSQL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\AdoNetLinqToSQL\AdoNetLinqToSQL\obj\Debug\AdoNetLinqToSQL.exe
+C:\Users\Admin\source\repos\AdoNetLinqToSQL\AdoNetLinqToSQL\obj\Debug\AdoNetLinqToSQL.pdb
